@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>8747c12cc0a8006f00bfb4bb88ff652b</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_transform_entry">
+    <sys_transform_entry action="INSERT_OR_UPDATE">
+        <choice_action>create</choice_action>
+        <coalesce>false</coalesce>
+        <coalesce_case_sensitive>false</coalesce_case_sensitive>
+        <coalesce_empty_fields>false</coalesce_empty_fields>
+        <date_format>yyyy-MM-dd hh:mm:ss</date_format>
+        <map display_value="Computer">4e3548e2c0a80094002e0c1550d11a26</map>
+        <reference_value_field/>
+        <source_field>disk_space</source_field>
+        <source_script/>
+        <source_table>imp_computer</source_table>
+        <sys_class_name>sys_transform_entry</sys_class_name>
+        <sys_created_by>glide.maint</sys_created_by>
+        <sys_created_on>2008-12-30 09:44:33</sys_created_on>
+        <sys_id>8747c12cc0a8006f00bfb4bb88ff652b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>disk_space</sys_name>
+        <sys_package display_value="Web Service Import Set Tables" source="com.snc.web_service_import_set_tables">cedc599d5d521300651727c3e282e874</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_transform_entry_8747c12cc0a8006f00bfb4bb88ff652b</sys_update_name>
+        <sys_updated_by>glide.maint</sys_updated_by>
+        <sys_updated_on>2008-12-30 09:44:33</sys_updated_on>
+        <target_field>disk_space</target_field>
+        <target_table>cmdb_ci_computer</target_table>
+        <use_source_script>false</use_source_script>
+    </sys_transform_entry>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-26 13:31:03</sys_created_on>
+        <sys_id>7f5a339ddba31300daf5e04a489619c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>disk_space</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_7f5a339ddba31300daf5e04a489619c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-26 13:31:03</sys_updated_on>
+        <tablename>sys_transform_entry</tablename>
+    </sys_metadata_link>
+</record_update>
